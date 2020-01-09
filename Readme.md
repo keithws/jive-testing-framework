@@ -1,3 +1,7 @@
+# Why this fork exists
+
+This fork exists purely to resolve the known security vulnerabilities in dependencies of this package since it appears to have been abandoned by Jive. Note, `mocha` has been upgraded from version 1.x to version 7.x Also note, `jscoverage` has been removed entirely.
+
 ## Summary
 
 Testing nodeJS applications -- for example, those written ontop of the Jive SDK -- has become easier than ever, using the jive testing framework (https://github.com/jivesoftware/jive-testing-framework). The framework:

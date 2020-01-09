@@ -16,7 +16,7 @@
 
 var q = require('q');
 var fs = require('fs');
-var uuid = require('node-uuid');
+var uuid = require('uuid');
 var crypto = require('crypto');
 var temp = require('temp');
 var assert = require('assert');
